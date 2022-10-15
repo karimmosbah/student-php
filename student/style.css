@@ -1,0 +1,54 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Cairo', sans-serif;
+}
+#mother{
+    width: 100%;
+    font-size: 20px;
+}
+#main{
+    float:right;
+    border: 1px solid gray;
+    
+}
+img{
+    border-radius: 50%;
+}
+input{
+    padding: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Cairo', sans-serif;
+}
+aside{
+    text-align: center;
+    width: 300px;
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    background-color: silver;
+    color: white;
+    margin-right: 20px;
+}
+#tbl{
+    width: 900px;
+    font-size: 20px;
+    border: 3px solid black;
+    
+}
+#tbl th{
+    background-color: silver;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+aside button{
+    width: 200px;
+    padding: 8px;
+    margin-top: 7px;
+    font-size: 17px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+}
